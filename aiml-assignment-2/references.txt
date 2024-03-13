@@ -1,0 +1,11 @@
+for clustering:
+https://developers.google.com/machine-learning/clustering/clustering-algorithms
+https://www.geeksforgeeks.org/hierarchical-clustering/
+https://www.kaggle.com/code/heeraldedhia/hierarchical-clustering-for-customer-data
+https://saturncloud.io/blog/how-to-read-csv-to-dataframe-in-google-colab/
+
+for find-s:
+https://www.geeksforgeeks.org/ml-find-s-algorithm/
+
+for numeral digit recognition
+https://nextjournal.com/gkoehler/pytorch-mnist
